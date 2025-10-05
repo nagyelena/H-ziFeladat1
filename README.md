@@ -3,3 +3,4 @@
 Ág készítés, majd áthelyezés a fő ágba
 
 git commit -m "3. commit elkészítése"
+git status
